@@ -1,0 +1,7 @@
+repository = "https://github.com/izzyjere/jpa-powertools-oi"
+suggest = ["pom.xml", "build.gradle", "build.gradle.kts"]
+
+[[versions]]
+version = "0.2.0"
+package = "https://github.com/izzyjere/jpa-powertools-oi/releases/download/v0.2.0/izzyjere.jpa-powertools-0.2.0.oiplugin"
+sha256 = "3b800186e582960e161ddbecc55d98c6a737c7df36654ece0af4c319dbf5e5fd"
