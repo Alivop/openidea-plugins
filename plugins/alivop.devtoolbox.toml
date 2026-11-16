@@ -1,6 +1,6 @@
 repository = "https://github.com/Alivop/openidea-devtoolbox"
 
 [[versions]]
-version = "0.1.0"
-package = "https://github.com/Alivop/openidea-devtoolbox/releases/download/v0.1.0/alivop.devtoolbox-0.1.0.oiplugin"
-sha256 = "1b742029ee22ae832e98a1195d0963f3a5f6e202d17cfb3a6bf8db6aa569402e"
+version = "0.1.1"
+package = "https://github.com/Alivop/openidea-devtoolbox/releases/download/v0.1.1/alivop.devtoolbox-0.1.1.oiplugin"
+sha256 = "f67aa4e97aa0f878ce950bbd98c0716576d4e699e4086a7bcb9ac1e5929856cf"
